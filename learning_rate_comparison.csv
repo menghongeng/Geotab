@@ -1,0 +1,7 @@
+learning_rate,mae,mse,rmse,r2,model_path,pre_path
+0.001,1.0285629847717284,1.6491322309309795,1.2841854347916346,0.8448985408786073,saved_models\battery_deg_lr_0_001.keras,saved_models\battery_deg_lr_0_001_pre.joblib
+0.01,0.473844714202881,0.3581021190458997,0.5984163425625171,0.9663203713221185,saved_models\battery_deg_lr_0_01.keras,saved_models\battery_deg_lr_0_01_pre.joblib
+0.1,1.3220428259277344,4.07838192925071,2.0195004157589844,0.6164267629867333,saved_models\battery_deg_lr_0_1.keras,saved_models\battery_deg_lr_0_1_pre.joblib
+0.005,2.132887454528808,5.843010157551263,2.417231920513889,0.4504628651968604,saved_models\battery_deg_lr_0_005.keras,saved_models\battery_deg_lr_0_005_pre.joblib
+0.05,0.9144899739074708,1.1611797631540375,1.077580513536709,0.8907906399562922,saved_models\battery_deg_lr_0_05.keras,saved_models\battery_deg_lr_0_05_pre.joblib
+0.5,2.484477854766846,10.037600781527427,3.1682172876126136,0.055960160081247934,saved_models\battery_deg_lr_0_5.keras,saved_models\battery_deg_lr_0_5_pre.joblib
